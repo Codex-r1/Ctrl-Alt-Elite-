@@ -80,7 +80,7 @@ The following hardware components were selected to monitor environmental conditi
 | Component                 | Quantity | Purpose                                              |
 | ------------------------- | -------- | ---------------------------------------------------- |
 | 128×64 OLED LCD Display   | 1        | Displays sensor readings                             |
-| 5V 1-Channel Relay Module | 1        | Controls actuators such as irrigation pumps and fans |
+| 5V 1-Channel Relay Module | 4        | To control actuators such as irrigation pumps and fans |
 
 ## 2.4 Passive Electronic Components
 
@@ -95,7 +95,7 @@ The following hardware components were selected to monitor environmental conditi
 
 | Component              | Quantity | Purpose                   |
 | ---------------------- | -------- | ------------------------- |
-| 5V USB Power Adapter   | 2        | Powers ESP32 modules      |
+| 5V USB Power Adapter   | 6        | Powers ESP32 modules and actuators      |
 | USB to Micro-USB Cable | 2        | Power and firmware upload |
 
 ## 2.6 Prototyping Tools
@@ -103,7 +103,7 @@ The following hardware components were selected to monitor environmental conditi
 | Component    | Quantity | Purpose                     |
 | ------------ | -------- | --------------------------- |
 | Breadboard   | 2        | Solderless prototyping      |
-| Jumper Wires | 20       | Electrical connections      |
+| Jumper Wires | 40       | Electrical connections      |
 | Multimeter   | 1        | Testing and troubleshooting |
 
 ---
