@@ -178,7 +178,7 @@ https://thinkrobotics.com/products/1-channel-relay-module-shield-5v
 
 ### ESP32S Connected to MQ-5, DHT22 and OLED LCD
 
-![Architecture A](images/architecture-a.png)
+![Architecture A](architecture-a.png)
 
 ### Design Notes
 
@@ -193,7 +193,7 @@ https://thinkrobotics.com/products/1-channel-relay-module-shield-5v
 
 ### ESP32S Connected to MQ-5 Interfaced Directly with Another ESP32S Connected to DHT22
 
-![Architecture B](images/architecture-b.png)
+![Architecture B](architecture-b.png)
 
 ### Design Notes
 
@@ -207,7 +207,7 @@ https://thinkrobotics.com/products/1-channel-relay-module-shield-5v
 
 ### ESP32S Connected to DHT22 and Relay Connected to Another ESP32S with MQ-5
 
-![Architecture C](images/architecture-c.png)
+![Architecture C](architecture-c.png)
 
 ### Design Notes
 
