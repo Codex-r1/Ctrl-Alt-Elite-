@@ -220,11 +220,14 @@ https://thinkrobotics.com/products/1-channel-relay-module-shield-5v
 
 # 5. Evidence of Group Work
 
+## Review meeting
+
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/0834e50b-4b08-4c94-9965-45814524a607" />
+
+
 ## Work distribution
 
 <img width="1302" height="798" alt="image" src="https://github.com/user-attachments/assets/9f0da60c-2ddc-42ca-95c5-23fb9320d45c" />
-<img width="550" height="436" alt="image" src="https://github.com/user-attachments/assets/1ce8723c-41a8-45e9-81f9-fecccc337600" />
-
 
 ---
 
