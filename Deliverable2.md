@@ -68,7 +68,7 @@ To monitor temperature, humidity and gas concentration using a single ESP32S and
 
 > Insert image of the assembled physical prototype.
 
-![Physical Prototype A](A1.jpg)
+![Physical Prototype A](A1.jpeg)
 
 ---
 
@@ -120,7 +120,7 @@ To demonstrate communication between two ESP32 microcontrollers where one node a
 
 Insert image.
 
-![Prototype B](A2.jpg)
+![Prototype B](A2.jpeg)
 
 ---
 
@@ -217,7 +217,7 @@ The simulation demonstrated:
 
 ## Lab Session
 
-![Group Work](A3.jpg)
+![Group Work](A3.jpeg)
 
 ---
 
