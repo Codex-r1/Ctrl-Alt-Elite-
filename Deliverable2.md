@@ -66,8 +66,6 @@ To monitor temperature, humidity and gas concentration using a single ESP32S and
 
 ### Circuit
 
-> Insert image of the assembled physical prototype.
-
 ![Physical Prototype A](A1.jpeg)
 
 ---
@@ -118,7 +116,6 @@ To demonstrate communication between two ESP32 microcontrollers where one node a
 
 ### Circuit
 
-Insert image.
 
 ![Prototype B](A2.jpeg)
 
