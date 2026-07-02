@@ -68,23 +68,7 @@ To monitor temperature, humidity and gas concentration using a single ESP32S and
 
 > Insert image of the assembled physical prototype.
 
-![Physical Prototype A](images/prototypeA.jpg)
-
----
-
-### OLED Display Output
-
-> Insert image showing OLED displaying readings.
-
-![OLED Output](images/prototypeA_oled.jpg)
-
----
-
-### Serial Monitor Output
-
-> Insert screenshot of Arduino IDE Serial Monitor.
-
-![Serial Monitor](images/prototypeA_serial.png)
+![Physical Prototype A](A1.jpg)
 
 ---
 
@@ -92,15 +76,8 @@ To monitor temperature, humidity and gas concentration using a single ESP32S and
 
 ### Wokwi Project
 
-Replace with your actual public Wokwi link.
 
-https://wokwi.com/projects/XXXXXXXXXXXX
-
----
-
-### Simulation Screenshot
-
-![Simulation A](images/wokwiA.png)
+https://wokwi.com/projects/468432675534520321
 
 ---
 
@@ -143,23 +120,7 @@ To demonstrate communication between two ESP32 microcontrollers where one node a
 
 Insert image.
 
-![Prototype B](images/prototypeB.jpg)
-
----
-
-### Serial Monitor Output (ESP32 Node 1)
-
-Insert screenshot.
-
-![Node1](images/node1_serial.png)
-
----
-
-### Serial Monitor Output (ESP32 Node 2)
-
-Insert screenshot.
-
-![Node2](images/node2_serial.png)
+![Prototype B](A2.jpg)
 
 ---
 
@@ -206,15 +167,7 @@ To demonstrate relay-based interaction between two embedded subsystems.
 
 ### Wokwi Project
 
-Replace with your public link.
-
-https://wokwi.com/projects/YYYYYYYYYYYY
-
----
-
-### Simulation Screenshot
-
-![Simulation C](images/wokwiC.png)
+https://wokwi.com/projects/468432675534520321
 
 ---
 
@@ -262,27 +215,9 @@ The simulation demonstrated:
 
 # 8. Evidence of Group Work
 
-## Prototype Development
+## Lab Session
 
-Insert images showing group members assembling the hardware.
-
-![Group Work](images/groupwork1.jpg)
-
----
-
-## Testing Session
-
-Insert image.
-
-![Testing](images/groupwork2.jpg)
-
----
-
-## Team Discussion
-
-Insert screenshot of meeting or communication.
-
-![Meeting](images/meeting.png)
+![Group Work](A3.jpg)
 
 ---
 
@@ -291,10 +226,10 @@ Insert screenshot of meeting or communication.
 | Team Member | Responsibility |
 |------------|----------------|
 | Phillip Gakuo | Prototype assembly |
-| Abucheli Ronah | Hardware integration and testing |
+| Njihia Muranga | Hardware integration and testing |
 | Danny Podho | Software development |
 | Phillip Leo | Wokwi simulations |
-| Njihia Muranga | Documentation and GitHub repository management |
+| Khabayi Ronah | Documentation and GitHub repository management |
 
 ---
 
